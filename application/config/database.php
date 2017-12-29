@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> 'copefrut',
-	'hostname' => '',
-	'username' => '',
-	'password' => '',
-	'database' => '',
+	'hostname' => '192.168.2.250',
+	'username' => 'alejandroonate',
+	'password' => 'alejandroonate',
+	'database' => 'Produccion_PlantaSurfrut',
 	'dbdriver' => 'odbc',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
