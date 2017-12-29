@@ -1,0 +1,59 @@
+
+.navTitulo{
+    background-color: #46666d;
+}
+
+
+.porcentajeMeta{
+  text-align: center;
+  font-weight: bold;
+  color: #26a69a;
+}
+
+.progress {
+    height: 15px;
+}
+
+.titleResult{
+  text-align: center;
+  font-weight: bold;
+  color: #26a69a;
+}
+
+
+.box {
+  height: 100px;
+  background: #ca5555;
+  color: #fff;
+      justify-content: center;
+}
+
+.box i{
+  font-size: 50px;
+}
+
+.boxResult{
+  background: #eaeaea;
+    height: 100px;
+}
+
+
+@media only screen and (max-width: 1386px) {
+
+  .titleResult{
+    font-size: 30px;
+  }
+
+  .card{
+        min-height: 260px;
+  }
+
+  .bold{
+        font-weight: bold;
+        font-size: 20px;
+  }
+
+
+
+
+}
