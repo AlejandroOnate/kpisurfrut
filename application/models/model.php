@@ -146,6 +146,10 @@ class model extends CI_Model{
 
     }
 
+
+
+    
+
     function  unionEmbaldosCerrados($kilosEmbalados,$kilosCerrados){
       // echo json_encode($kilosEmbalados);
       $sumaKgEstimados = 0 ;
